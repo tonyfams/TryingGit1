@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TryingGit1</string>
+    <string name="do_something">Do Something</string>
 </resources>
